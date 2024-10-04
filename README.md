@@ -65,4 +65,20 @@ made up assembly clone compiler
   </tr>
 </table> 
 
-faz o L
+# Atividade prática sobre ciclo de operação do processador OPÇÃO 1
+
+Implementar um COMPILADOR para programas escritos com o conjunto de instruções definido no material sobre ciclo de operação do processador.
+
+ - O compilador deve ler um arquivo .txt com as instruções do programa e gerar outro arquivo .txt, este contendo o código de máquina resultante.
+ - O arquivo de entrada deve conter uma instrução por linha, como feito nos exemplos dos slides de aula.
+ - As instruções devem ser passadas sempre em maiúsculas.
+ - Quando houver necessidade de um parâmetro, este deve ser separado da instrução por exatamente um espaço em branco.
+ - Quando houver necessidade de dois parâmetros, o segundo deve ser separado do primeiro por exatamente uma vírgula e um espaço.
+ - O arquivo de saída deve conter um número (código de instrução ou parâmetro) por linha.
+
+exemplo
+![image](https://github.com/user-attachments/assets/de872c68-4427-4294-a027-cb80b7b8ac78)
+
+Para a entrega, gere um .zip do código-fonte do programa e envie-o aqui nesta tarefa. Nos trabalhos em grupo, basta que um integrante faça o envio.
+
+Have fun!
