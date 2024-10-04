@@ -3,6 +3,13 @@ made up assembly clone compiler
 
 # commands
  <table>
+   <tr>
+    <td>Codigo</td>
+    <td>Instrução</td>
+    <td>Parâmetros</td>
+    <td>Descriçao</td>
+    <td>Java equivalent</td>
+  </tr>
   <tr>
     <td>100</td>
     <td>101</td>
