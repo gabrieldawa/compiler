@@ -77,6 +77,7 @@ Implementar um COMPILADOR para programas escritos com o conjunto de instruções
  - O arquivo de saída deve conter um número (código de instrução ou parâmetro) por linha.
 
 exemplo
+
 ![image](https://github.com/user-attachments/assets/de872c68-4427-4294-a027-cb80b7b8ac78)
 
 Para a entrega, gere um .zip do código-fonte do programa e envie-o aqui nesta tarefa. Nos trabalhos em grupo, basta que um integrante faça o envio.
